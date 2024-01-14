@@ -3,13 +3,17 @@
         P(O) = CF (1)/(r - g)
         r = required rate of return
         g = anticipated CF growth
+        P = current stock price
     
  1. A company has paid a dividend of 30c for many years. The company expects to continue paying dividends at this level in the future. The company’s current share price is $1.50. Calculate the cost of growth
 
             Rate - growth    CF (1) / P (O) =   0,3 / 1,50 = 20%
             growth = 0 
     
- 3. Alpha has just paid a dividend of 20c per share. Dividends are growing at the rate of 6% per annum, and shareholders required rate of return is 20%. What is the market value per share?
+ 2. Alpha has just paid a dividend of 20c per share. Dividends are growing at the rate of 6% per annum, and shareholders required rate of return is 20%. What is the market value per share?
+                CF(1)            = 0,2 * (1 + 6% )     = 0,212
+                P(0)             = 0,212/ ( 20% - 6% ) = 1,514285714
+    
  4. A company is about to pay a dividend of 18c per share currently priced at $1,73. Dividends are growing at the rate of 3% per annum. What is the required rate of return on the company’s equity?
  5.  Using publicly available dividend information on Bank of America (BAC) for the past 5 years, calculate its cost of equity.
  6. For FedEx (FDX) determine the last trading date to buy stocks to become eligible for the next dividend payment. Specifically, discuss the following: 
