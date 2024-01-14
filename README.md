@@ -5,6 +5,7 @@
         g = anticipated CF growth
     
  1. A company has paid a dividend of 30c for many years. The company expects to continue paying dividends at this level in the future. The company’s current share price is $1.50. Calculate the cost of growth
+
             Rate - growth    CF (1) / P (O) =   0,3 / 1,50 = 20%
             growth = 0 
     
