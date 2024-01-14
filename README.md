@@ -11,6 +11,7 @@
             growth = 0 
     
  2. Alpha has just paid a dividend of 20c per share. Dividends are growing at the rate of 6% per annum, and shareholders required rate of return is 20%. What is the market value per share?
+
                 CF(1)            = 0,2 * (1 + 6% )     = 0,212
                 P(0)             = 0,212/ ( 20% - 6% ) = 1,514285714
     
